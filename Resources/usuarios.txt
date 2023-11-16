@@ -1,0 +1,2 @@
+user:123:adm
+Marconi:1234:emp
